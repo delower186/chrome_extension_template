@@ -1,0 +1,10 @@
+{
+    "manifest_version":3,
+    "name":"extension_name",
+    "version":"1.0",
+    "description":"Chrome Extension Description",
+    "action":{
+        "default_popup":"index.html"
+    },
+    "permissions":[]
+}
